@@ -1,0 +1,19 @@
+{
+  "name": "Threedify",
+  "version": "0.0.1",
+  "author": "Burak Can <neoberg@gmail.coom>",
+  "description": "Automatically creates 3d views of webpages. https://github.com/neoberg/threedify.git",
+  "contributors": [
+    {
+      "name": "Burak Can",
+      "email": "neoberg@gmail.com"
+    }
+  ],
+  "dependencies" : {
+    "grunt": "*",
+    "grunt-contrib-coffee": "*",
+    "grunt-contrib-stylus": "*",
+    "grunt-contrib-watch": "*"
+    },
+  "license": "GPL"
+}
