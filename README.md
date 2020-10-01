@@ -1,5 +1,5 @@
-threedify
+Threedify
 =========
 
-Automatically creates 3d views of webpages
+Automatically creates 3D views of webpages
 ...
